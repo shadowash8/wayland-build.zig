@@ -4,8 +4,8 @@
     .minimum_zig_version = "0.16.0",
     .dependencies = .{
         .wayland = .{
-            .url = "git+https://gitlab.freedesktop.org/wayland/wayland.git?ref=1.24#736d12ac67c20c60dc406dc49bb06be878501f86",
-            .hash = "N-V-__8AAGoeGQBEn6KguTJUXrCE0tIRrrXfQX7hYHoKCJwZ",
+            .url = "git+https://gitlab.freedesktop.org/wayland/wayland.git?ref=1.25#3e673a438b0a9749e3bdf5cac4befac86333024c",
+            .hash = "N-V-__8AAHn0JAAOBkhzH_lP16r6zcK9R4FIAKGhA7Fdc7gD",
         },
         .libffi = .{
             .url = "git+https://codeberg.org/vezel/libffi.git#74386f41b576e6e33253f9c46ea781764b84f536",
